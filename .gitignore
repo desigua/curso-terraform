@@ -6,3 +6,5 @@
 *.tfr
 *.tfstate.lock.info
 *.exe
+.terraform.lock.hcl
+*.hcl
